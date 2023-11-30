@@ -562,7 +562,7 @@ directly downloaded by running `bootstrap-vcpkg.bat`, you no longer need to [ins
    ```
 3. Type this command:
    ```
-   .\vcpkg\bootstrap-vcpkg.bat
+   .\vcpkg\bootstrap-vcpkg.bat -disableMetrics
    ```
 4. Type this command:
    ```
